@@ -40,4 +40,15 @@ Generates a personalized 4-week preparation plan and
 | Website | Antigravity |
 | Deployment | Vercel |
 
+placement-readiness-agent/
+│
+├── README.md
+├── docs/
+│   ├── problem-statement.md
+│   ├── agent-design.md
+│   └── screenshots/
+├── sample-inputs/
+│   └── sample-resume.txt
+└── website/
+
 ## 📁 Project Structure
