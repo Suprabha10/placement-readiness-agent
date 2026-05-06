@@ -1,0 +1,25 @@
+Name: Priya Sharma
+B.E. Computer Engineering, SPPU
+CGPA: 8.2
+College: ISBM College of Engineering, Pune
+
+Technical Skills:
+- Programming Languages: Python, Java
+- Web: HTML, CSS, JavaScript
+- Database: MySQL, MongoDB
+- Tools: Git, VS Code
+
+Projects:
+1. Expense Tracker
+   Technologies: HTML, CSS, JS, Node.js, MongoDB
+   Description: A web app to track daily income and expenses
+
+2. Library Management System
+   Technologies: Java, MySQL
+   Description: Desktop app to manage book records
+
+Certifications:
+- Python for Everybody - Coursera
+- Data Science Fundamentals - NPTEL
+
+Internships: None
